@@ -5,3 +5,13 @@
 <a href="https://www.youtube.com/@polytopesofficial"><img width="43" height="43" alt="yt_icon_almostblack_digital" src="https://github.com/user-attachments/assets/323486fc-c71a-47fc-9eef-1fc23d346af2" /></a>
 <a href="https://polytopes.bandcamp.com/"><img width="43" height="43" alt="bandcamp-button-square-black-512" src="https://github.com/user-attachments/assets/1189dc19-9609-4803-abd5-0acdeb03af85" /></a>
 
+<div style="display: none">
+    <![CDATA[<script async data-uid="26df8ac0bb" src="https://polytopes.kit.com/26df8ac0bb/index.js">
+    <!--<![CDATA[--><![CDATA[
+    </script>
+    <![CDATA[<script>
+    <!--<![CDATA[--><![CDATA[
+        example();
+    // <![CDATA[
+    </script><![CDATA[]]>
+</div>
